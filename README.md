@@ -1,7 +1,3 @@
 # test
 
-
-
-
 abc
-def
